@@ -50,12 +50,14 @@ Figure -02 HALF Subtractor
 
 ## HALF ADDER 
 **Program:**
+
 ![Screenshot 2024-04-27 101651](https://github.com/karuniya2005/HALF_ADDER_SUBTRACTOR/assets/161425769/9015e624-30e7-42d9-bd0e-dea152a259b1)
 
 **RTL Schematic**
 ![Screenshot 2024-04-27 101657](https://github.com/karuniya2005/HALF_ADDER_SUBTRACTOR/assets/161425769/02aa8bbd-2d63-4b14-9dde-12b87f908ee3)
 
 **truth table**
+
 ![Screenshot 2024-04-27 101703](https://github.com/karuniya2005/HALF_ADDER_SUBTRACTOR/assets/161425769/d6936b57-d25a-4a9b-990a-60506c1e9604)
 
 **Output/TIMING Waveform**
@@ -63,12 +65,14 @@ Figure -02 HALF Subtractor
 
 ## HALF SUBTRACTOR 
 **Program:**
+
 ![Screenshot 2024-04-27 101734](https://github.com/karuniya2005/HALF_ADDER_SUBTRACTOR/assets/161425769/a4806b5d-e247-4a87-975a-7f32aea9eb49)
 
 **RTL Schematic**
 ![Screenshot 2024-04-27 101743](https://github.com/karuniya2005/HALF_ADDER_SUBTRACTOR/assets/161425769/bbeaf09f-14a3-435f-8426-396a88c141c0)
 
 **truth table**
+
 ![Screenshot 2024-04-27 101749](https://github.com/karuniya2005/HALF_ADDER_SUBTRACTOR/assets/161425769/163a5fc4-819f-4a80-ad0f-250663800143)
 
 **Output/TIMING Waveform**
