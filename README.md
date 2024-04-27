@@ -1,6 +1,7 @@
-# HALF_ADDER_SUBTRACTOR
+**EX-2**
+<p align='center'><b> IMPLEMENTATION OF HALF ADDER AND HALF SUBTRACTOR</b> 
 
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
+**DATE:**
 
 **AIM:**
 
